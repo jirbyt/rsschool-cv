@@ -1,0 +1,50 @@
+img{
+	max-width: 100%;
+
+}
+body{
+	margin:0 50px;
+}
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap-reverse;
+	background-color: rgba(50, 50, 200, 0.5);
+}
+
+.image{
+flex-basis: 150px;
+flex-grow:1;
+}
+
+header div{
+flex-basis: 300px;
+flex-grow: 2; 
+text-align: center;
+}
+
+.container{
+	display: flex;
+	justify-content: space-around;
+	flex-wrap:wrap-reverse; 
+	
+}
+
+.item{
+	flex-basis: 400px;
+	flex-grow:2;
+}
+
+.sidebar{
+	
+	flex-grow: 1;
+}
+
+.sidebar li{
+	list-style: none; 
+}
+
+footer{
+	text-align: center;
+}
