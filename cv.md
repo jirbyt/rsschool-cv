@@ -1,6 +1,5 @@
 # Evgenii Oshkin
 
-
 ## About me
 
 I am a professional cad constructor. I have a technical mindset, perseverance. Love to learn new things is about me. The world is huge, but I want to study javascript. My goal is to master a new profession and learn to code.
