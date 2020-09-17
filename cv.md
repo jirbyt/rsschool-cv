@@ -25,7 +25,7 @@ __________________
 
 ## Work experience
 
-Front-end/JavaScript (RS School)
+Front-end/JavaScript (RS School) Q3 2020
 
 ## Education
 Engineer, 2011, Ryazan State Radio Engineering University
