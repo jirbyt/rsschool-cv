@@ -21,6 +21,7 @@ __________________
   - CSS
   - JS
   - Git
+  - CAD
 
 ## Work experience
 
